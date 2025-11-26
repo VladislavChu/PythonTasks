@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88d2fc69-0c58-45c5-b27f-50767b638437" name="Changes" comment="password.py has been updated">
+    <list default="true" id="88d2fc69-0c58-45c5-b27f-50767b638437" name="Changes" comment="new project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesarCipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/caesarCipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/hangman.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.CaesarCipher.executor": "Run",
     "Python.caesarCipher.executor": "Run",
+    "Python.hangman.executor": "Run",
     "Python.password.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -94,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763652685419</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new project">
+      <option name="closed" value="true" />
+      <created>1763987846234</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763987846234</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +122,7 @@
     <MESSAGE value="the password gen is completed!" />
     <MESSAGE value="Python projects" />
     <MESSAGE value="password.py has been updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="password.py has been updated" />
+    <MESSAGE value="new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="new project" />
   </component>
 </project>
